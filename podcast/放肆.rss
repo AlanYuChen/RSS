@@ -26,7 +26,7 @@
             <itunes:name>饭角</itunes:name>
             <itunes:email>kefu@fanjiao.co</itunes:email>
         </itunes:owner>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:complete>yes</itunes:complete>
         <itunes:type>serial</itunes:type>
         <itunes:category text="Fiction">
@@ -503,6 +503,18 @@
             <itunes:episode>1</itunes:episode>
         </item>
         <item>
+            <title>圆满（主题曲）</title>
+            <link>https://s.rela.me/c/1SqTNu?album_id=102312</link>
+            <pubDate>Thu, 11 Aug 2022 15:01:00 +0800</pubDate>
+            <guid>163_2545714028</guid>
+            <enclosure url="https://audio.getpodcast.xyz/redirect/163/2164322735.mp3?utm_campaign=163-1005742348-%E6%94%BE%E8%82%86&amp;utm_content=%E5%9C%86%E6%BB%A1%EF%BC%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89&amp;utm_medium=163&amp;utm_source=rss&amp;utm_term=2545714028" type="audio/mpeg"/>
+            <description><![CDATA[]]></description>
+            <itunes:duration>00:03:38</itunes:duration>
+            <itunes:image href="https://p2.music.126.net/SQ1cofUPwrLJgjOoaBWEew==/109951169664698677.jpg"/>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+        </item>
+        <item>
             <title>晚安</title>
             <link>https://s.rela.me/c/1SqTNu?album_id=102312</link>
             <pubDate>Thu, 11 Aug 2022 15:13:17 +0800</pubDate>
@@ -670,18 +682,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
-        </item>
-        <item>
-            <title>圆满（主题曲）</title>
-            <link>https://s.rela.me/c/1SqTNu?album_id=102312</link>
-            <pubDate>Thu, 11 Aug 2022 15:01:00 +0800</pubDate>
-            <guid>163_2545714028</guid>
-            <enclosure url="https://audio.getpodcast.xyz/redirect/163/2164322735.mp3?utm_campaign=163-1005742348-%E6%94%BE%E8%82%86&amp;utm_content=%E5%9C%86%E6%BB%A1%EF%BC%88%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89&amp;utm_medium=163&amp;utm_source=rss&amp;utm_term=2545714028" type="audio/mpeg"/>
-            <description><![CDATA[]]></description>
-            <itunes:duration>00:03:38</itunes:duration>
-            <itunes:image href="https://p2.music.126.net/SQ1cofUPwrLJgjOoaBWEew==/109951169664698677.jpg"/>
-            <itunes:episodeType>bonus</itunes:episodeType>
-            <itunes:season>1</itunes:season>
         </item>
     </channel>
 </rss>

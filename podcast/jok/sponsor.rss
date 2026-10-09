@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" encoding="UTF-8" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 	<channel>
 		<title>金主系列</title>
 		<link>https://www.youtube.com/channel/UCrf0kaG6q4qyDVofAi70UCQ</link>
@@ -18,13 +18,14 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:complete>yes</itunes:complete>
+		<podcast:person role="女主">汣珂</podcast:person>
 		<item>
 			<title>第三集</title>
 			<link>https://x.com/JiuKe_/status/2067961841834446854</link>
 			<pubDate>Thu, 11 Aug 2025 15:03:16 +0800</pubDate>
 			<guid>asmr-jok-JZ03</guid>
 			<enclosure url="https://asmr.121231234.xyz/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok/%E9%87%91%E4%B8%BB3.m4a" type="audio/mp4"/>
-			<description><![CDATA[ 汣珂 金主系列 ]]></description>
+			<description><![CDATA[ 都疯了 ]]></description>
 			<itunes:duration>00:29:39</itunes:duration>
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>

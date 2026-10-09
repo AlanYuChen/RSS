@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" encoding="UTF-8" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 	<channel>
 		<title>姐弟系列</title>
 		<link>https://www.asmr.loan/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok</link>
@@ -18,6 +18,7 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:complete>yes</itunes:complete>
+		<podcast:person role="姐姐">汣珂</podcast:person>
 		<item>
 			<title>我愿意</title>
 			<link>https://1drv.ms/u/c/de70e591e5658c2f/ERwNLINKLJZAm417Uts8D_ABuV1xM9jAhyZLf8bIMxlRsg?e=nSwAuW</link>
@@ -29,10 +30,8 @@
 本来之前给的标题是《姐姐 但叫哥哥》，录完之后改成了《我愿意》，一个圆满的番外和句号，太久没录音了，一开始开头录了几十次，有些像口胡一样的特意没删，当花絮也好当正文也行，反正写大纲的时候，我给了一句评价：我也太浪漫了吧 ]]></description>
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episode>11</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episodeType>bonus</itunes:episodeType>
 			<podcast:season>1</podcast:season>
-			<podcast:episode>11</podcast:episode>
 		</item>
 		<item>
 			<title>ending for you</title>

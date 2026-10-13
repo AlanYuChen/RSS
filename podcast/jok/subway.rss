@@ -16,7 +16,7 @@
         <itunes:category text="Sleep Aids">
             <itunes:category text="ASMR"/>
         </itunes:category>
-        <itunes:explicit>true</itunes:explicit>
+        <itunes:explicit>yes</itunes:explicit>
         <itunes:complete>yes</itunes:complete>
         <podcast:person role="女主" img="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg">汣珂</podcast:person>
         <item>

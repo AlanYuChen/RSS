@@ -20,6 +20,19 @@
 		<itunes:complete>yes</itunes:complete>
 		<podcast:person role="姐姐">汣珂</podcast:person>
 		<item>
+			<title>尾声感言-姐弟札记</title>
+			<link>https://www.asmrgay.com/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok/%E7%95%AA%E5%A4%96/jok-%E5%A7%90%E5%BC%9F10%20%E5%B0%BE%E5%A3%B0%E6%84%9F%E8%A8%80-%E5%A7%90%E5%BC%9F%E6%9C%AD%E8%AE%B0.mp3</link>
+			<pubDate>Thu, 11 Aug 2022 15:09:16 +0800</pubDate>
+			<guid>asmr-jok-jd232</guid>
+			<enclosure url="https://asmr.121231234.xyz/asmr/%E4%B8%AD%E6%96%87%E9%9F%B3%E5%A3%B0/jok/%E7%95%AA%E5%A4%96/jok-%E5%A7%90%E5%BC%9F10%20%E5%B0%BE%E5%A3%B0%E6%84%9F%E8%A8%80-%E5%A7%90%E5%BC%9F%E6%9C%AD%E8%AE%B0.mp3" type="audio/mpeg"/>
+			<itunes:duration>00:07:53</itunes:duration>
+			<description><![CDATA[ 汣珂 姐弟系列 ]]></description>
+			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>bonus</itunes:episodeType>
+			<podcast:season>1</podcast:season>
+		</item>
+		<item>
 			<title>我愿意</title>
 			<link>https://1drv.ms/u/c/de70e591e5658c2f/ERwNLINKLJZAm417Uts8D_ABuV1xM9jAhyZLf8bIMxlRsg?e=nSwAuW</link>
 			<pubDate>Thu, 11 Aug 2022 15:11:16 +0800</pubDate>
@@ -30,8 +43,9 @@
 本来之前给的标题是《姐姐 但叫哥哥》，录完之后改成了《我愿意》，一个圆满的番外和句号，太久没录音了，一开始开头录了几十次，有些像口胡一样的特意没删，当花絮也好当正文也行，反正写大纲的时候，我给了一句评价：我也太浪漫了吧 ]]></description>
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
-			<itunes:episodeType>bonus</itunes:episodeType>
+			<itunes:episode>10</itunes:episode>
 			<podcast:season>1</podcast:season>
+			<podcast:episode>10</podcast:episode>
 		</item>
 		<item>
 			<title>ending for you</title>
@@ -44,7 +58,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>9</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>9</podcast:episode>
 		</item>
@@ -59,7 +72,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>8</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>8</podcast:episode>
 		</item>
@@ -74,7 +86,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>7</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>7</podcast:episode>
 		</item>
@@ -89,7 +100,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>6</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>6</podcast:episode>
 		</item>
@@ -104,7 +114,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>5</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>5</podcast:episode>
 		</item>
@@ -119,7 +128,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>4</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>4</podcast:episode>
 		</item>
@@ -134,7 +142,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>3</podcast:episode>
 		</item>
@@ -149,7 +156,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>2</podcast:episode>
 		</item>
@@ -164,7 +170,6 @@
 			<itunes:image href="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9kZTcwZTU5MWU1NjU4YzJmL0VmbFpXNF9CWHBOSnV2ekFuNjM0M0VRQmFScGt1NnJUX21NSy0ySE0zdWFwZHc_ZT1KRUdNZnA.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>1</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 			<podcast:season>1</podcast:season>
 			<podcast:episode>1</podcast:episode>
 		</item>
